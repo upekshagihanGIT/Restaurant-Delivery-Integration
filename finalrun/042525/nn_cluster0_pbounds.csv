@@ -1,0 +1,2 @@
+,sequence_length,hidden_size,learning_rate,num_layers,lstm_dropout,fc_dropout,epochs,weight_decay
+0,"(1, 7)","(2, 128)","(0.01, 0.1)","(1, 4)","(0.0, 0.5)","(0.0, 0.5)","(100, 500)","(1e-06, 0.01)"

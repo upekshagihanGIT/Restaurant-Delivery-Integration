@@ -1,0 +1,2 @@
+Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index,Rand index,Mutual Information,Fowlkes-Mallows Index,Adjusted Rand Index,Adjusted Mutual Information,Normalized Mutual Information,Homogeneity,Completeness ,V-measure
+0.34254761997745936,0.9068491647414494,575.509129539184,0.9046992481203008,1.5206705899156563,0.541143105108939,0.4877840809046175,0.6519792958900352,0.668808588689736,0.6646602740989543,0.6730090098735819,0.668808588689736

@@ -1,0 +1,205 @@
+Processing Cluster 0...
+Demands for Cluster 0: [0, 2, 1, 1, 3, 2]
+Not Feasible time window found!
+Start Time: 81000 End Time: 83400 Duration: 2514
+End Time should be 83514 seconds
+Changed Time Window to...
+Start Time: 81000 End Time: 83514 Duration: 2514
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 1
+No Solution!
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 2
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 3
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 4
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 5
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 6
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 7
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 8
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 1
+No Solution!
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 2
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 3
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 4
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 5
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 6
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 7
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 8
+Objective Value: 10346
+Total Distance: 64980
+Total Load: 9
+Routes: 
+[[(0, 75680, 76065, 0, 0), (3, 77615, 77700, 0, 10049), (4, 81000, 81085, 1, 30838), (0, 83660, 84045, 4, 48462)], [(0, 41514, 42920, 0, 0), (1, 42394, 43500, 0, 3602), (5, 43200, 44306, 2, 6051), (2, 44400, 45518, 4, 10691), (0, 45368, 46786, 5, 16518)]]
+Best Parameters: Vehicle Capacity=30 Maximum Distance=90000 Number of Vehicles=2
+Best Route for Cluster 0
+Objective Value: 10346
+Route for vehicle 1:
+Location: 0, Arrival Window: [75680, 76065], Load: 0, Distance: 0 meters
+Location: 3, Arrival Window: [77615, 77700], Load: 0, Distance: 10049 meters
+Location: 4, Arrival Window: [81000, 81085], Load: 1, Distance: 30838 meters
+Location: 0, Arrival Window: [83660, 84045], Load: 4, Distance: 48462 meters
+Route for vehicle 2:
+Location: 0, Arrival Window: [41514, 42920], Load: 0, Distance: 0 meters
+Location: 1, Arrival Window: [42394, 43500], Load: 0, Distance: 3602 meters
+Location: 5, Arrival Window: [43200, 44306], Load: 2, Distance: 6051 meters
+Location: 2, Arrival Window: [44400, 45518], Load: 4, Distance: 10691 meters
+Location: 0, Arrival Window: [45368, 46786], Load: 5, Distance: 16518 meters
+Processing Cluster 1...
+Demands for Cluster 1: [0, 1, 4, 3, 4]
+Not Feasible time window found!
+Start Time: 80700 End Time: 83100 Duration: 2752
+End Time should be 83452 seconds
+Changed Time Window to...
+Start Time: 80700 End Time: 83452 Duration: 2752
+Not Feasible time window found!
+Start Time: 75600 End Time: 78000 Duration: 2522
+End Time should be 78122 seconds
+Changed Time Window to...
+Start Time: 75600 End Time: 78122 Duration: 2522
+Not Feasible time window found!
+Start Time: 78600 End Time: 81000 Duration: 3367
+End Time should be 81967 seconds
+Changed Time Window to...
+Start Time: 78600 End Time: 81967 Duration: 3367
+Not Feasible time window found!
+Start Time: 69900 End Time: 72300 Duration: 2968
+End Time should be 72868 seconds
+Changed Time Window to...
+Start Time: 69900 End Time: 72868 Duration: 2968
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 1
+No Solution!
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 2
+No Solution!
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 3
+No Solution!
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 4
+No Solution!
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 5
+No Solution!
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 6
+No Solution!
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 7
+No Solution!
+Capacity: 30 | Distance: 60000 | Number of Vehicles: 8
+No Solution!
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 1
+No Solution!
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 2
+Objective Value: 15292
+Total Distance: 124277
+Total Load: 12
+Routes: 
+[[(0, 66632, 69900, 0, 0), (4, 69900, 72868, 0, 21428), (0, 72927, 76195, 4, 41997)], [(0, 73360, 75600, 0, 0), (2, 76182, 78122, 0, 17132), (3, 78632, 80572, 4, 42779), (1, 80700, 82640, 7, 62939), (0, 83557, 85797, 8, 82280)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 3
+Objective Value: 15292
+Total Distance: 124277
+Total Load: 12
+Routes: 
+[[(0, 66632, 69900, 0, 0), (4, 69900, 72868, 0, 21428), (0, 72927, 76195, 4, 41997)], [(0, 73360, 75600, 0, 0), (2, 76182, 78122, 0, 17132), (3, 78632, 80572, 4, 42779), (1, 80700, 82640, 7, 62939), (0, 83557, 85797, 8, 82280)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 4
+Objective Value: 15292
+Total Distance: 124277
+Total Load: 12
+Routes: 
+[[(0, 66632, 69900, 0, 0), (4, 69900, 72868, 0, 21428), (0, 72927, 76195, 4, 41997)], [(0, 73360, 75600, 0, 0), (2, 76182, 78122, 0, 17132), (3, 78632, 80572, 4, 42779), (1, 80700, 82640, 7, 62939), (0, 83557, 85797, 8, 82280)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 5
+Objective Value: 15292
+Total Distance: 124277
+Total Load: 12
+Routes: 
+[[(0, 66632, 69900, 0, 0), (4, 69900, 72868, 0, 21428), (0, 72927, 76195, 4, 41997)], [(0, 73360, 75600, 0, 0), (2, 76182, 78122, 0, 17132), (3, 78632, 80572, 4, 42779), (1, 80700, 82640, 7, 62939), (0, 83557, 85797, 8, 82280)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 6
+Objective Value: 15292
+Total Distance: 124277
+Total Load: 12
+Routes: 
+[[(0, 66632, 69900, 0, 0), (4, 69900, 72868, 0, 21428), (0, 72927, 76195, 4, 41997)], [(0, 73360, 75600, 0, 0), (2, 76182, 78122, 0, 17132), (3, 78632, 80572, 4, 42779), (1, 80700, 82640, 7, 62939), (0, 83557, 85797, 8, 82280)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 7
+Objective Value: 15292
+Total Distance: 124277
+Total Load: 12
+Routes: 
+[[(0, 66632, 69900, 0, 0), (4, 69900, 72868, 0, 21428), (0, 72927, 76195, 4, 41997)], [(0, 73360, 75600, 0, 0), (2, 76182, 78122, 0, 17132), (3, 78632, 80572, 4, 42779), (1, 80700, 82640, 7, 62939), (0, 83557, 85797, 8, 82280)]]
+Capacity: 30 | Distance: 90000 | Number of Vehicles: 8
+Objective Value: 15292
+Total Distance: 124277
+Total Load: 12
+Routes: 
+[[(0, 66632, 69900, 0, 0), (4, 69900, 72868, 0, 21428), (0, 72927, 76195, 4, 41997)], [(0, 73360, 75600, 0, 0), (2, 76182, 78122, 0, 17132), (3, 78632, 80572, 4, 42779), (1, 80700, 82640, 7, 62939), (0, 83557, 85797, 8, 82280)]]
+Best Parameters: Vehicle Capacity=30 Maximum Distance=90000 Number of Vehicles=2
+Best Route for Cluster 1
+Objective Value: 15292
+Route for vehicle 1:
+Location: 0, Arrival Window: [66632, 69900], Load: 0, Distance: 0 meters
+Location: 4, Arrival Window: [69900, 72868], Load: 0, Distance: 21428 meters
+Location: 0, Arrival Window: [72927, 76195], Load: 4, Distance: 41997 meters
+Route for vehicle 2:
+Location: 0, Arrival Window: [73360, 75600], Load: 0, Distance: 0 meters
+Location: 2, Arrival Window: [76182, 78122], Load: 0, Distance: 17132 meters
+Location: 3, Arrival Window: [78632, 80572], Load: 4, Distance: 42779 meters
+Location: 1, Arrival Window: [80700, 82640], Load: 7, Distance: 62939 meters
+Location: 0, Arrival Window: [83557, 85797], Load: 8, Distance: 82280 meters
+Execution Time: 0.04525175889333089 minutes

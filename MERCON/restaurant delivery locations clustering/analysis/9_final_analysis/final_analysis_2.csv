@@ -1,0 +1,7 @@
+﻿Clustering Method,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index
+K-Means,0.3450,0.9178,614.6980
+Agglomerative,0.3296,0.9479,587.6805
+BIRCH,0.3215,0.9567,542.4604
+Mini-Batch KMeans,0.3425,0.9068,575.5091
+Spectral,0.3065,0.8992,481.6825
+Gaussian Mixture,0.3353,0.9381,582.2758
